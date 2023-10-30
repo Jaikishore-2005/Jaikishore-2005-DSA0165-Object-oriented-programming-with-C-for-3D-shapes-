@@ -10,20 +10,6 @@ else if (income >= 1200.00 && income < 2500.00)
 cout << "You are living in moderate comfort." << endl;
 else if (income >= 2500.00)
 cout << "You are well off." << endl;
-9. Answer the questions below concerning the following fragment of code.
-int n;
-cout << "Enter an integer: ";
-cin >> n;
-if (n < 10)
-cout << "less than 10" << endl;
-else if (n > 5)
-cout << "greater than 5" << endl;
-else
-cout << "not interesting" << endl;
-a. What will be the output of the fragment above if the interactive user enters the integer value 0 ?
-b. What will be the output of the fragment above if the interactive user enters the integer value 15 ?
-c. What will be the output of the fragment above if the interactive user enters the integer value 7 ?
-d. What values for n will cause the output of the fragment above to be "not interesting"?
 
 ANSWER:
 
